@@ -3,6 +3,8 @@ Step-2:  Install Live Server extension in the VS Code.
 Step-3:  Download the project files in the specified folder.
 Step-4:  Open both HTML and CSS file side by side in the VS Code.
 Step-5:  Right-click on the HTML file and choose "open with live server" from the dialog box.
+
+
 if(code==run)
   print("Happy")
 else:
